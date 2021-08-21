@@ -11,8 +11,8 @@ total_kills='totk'
 hp_max_tag='hpmax'
 hp_level='hplvl'
 
-start_with_hearts=5
-end_with_hearts=20
+start_with_hearts=10
+end_with_hearts=30
 num_bossbars=50
 
 #array should have end_with_hearts - start_with_hearts entries
